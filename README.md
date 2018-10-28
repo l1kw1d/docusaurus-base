@@ -1,7 +1,7 @@
 # docusaurus-base
 
-Netlify template for Docusaurus
+IT Knowledgebase
 
-Use this template to generate documentation for your project using [Docusaurus](https://docusaurus.io) and host it on [Netlify](https://www.netlify.com).
+Use this template to generate documentation for your project using [Docusaurus](https://docusaurus.io) and host it on [Netlify](https://groupeneotech.ca).
 
-## [Demo](https://docusaurus.netlify.com/test-site/)
+## [Demo](https://multi.live/)
